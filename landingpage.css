@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background: #f0f0f0;
+  color: #333;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #213e00;
+  padding: 0rem 3%;
+  flex-wrap: wrap;
+}
+
+.topoLogo img {
+  width: 16rem; /*6rem;*/
+}
+
+nav {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin-right: 2%;
+}
+
+nav a {
+  font-size: 1.2rem;;
+  text-decoration: none;
+  color: #f0f0f0;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+main {
+  justify-content: space-between;
+  align-items: center;
+  padding: 3rem 7%;
+  gap: 3rem;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex: 1;
+  gap: 3rem;
+  flex-wrap: wrap;
+  /*background-image: url('src/assets/MataBackgound.png');
+  background-size: cover;
+  background-position: center;*/
+}
+
+.texto {
+  flex: 1;
+}
+
+.texto h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 4rem;
+  margin-left: 2rem;
+  line-height: 1.5; /*1.3*/
+  font-weight: 600;
+  color: white;
+  line-height: 1.3;
+}
+
+strong {
+  color:#acd137;
+}
+
+.texto2SubTitulo {
+  margin-left: 2rem;
+  font-size: 2.2rem;
+  margin-top: 1rem;
+  color: white;
+  line-height: 1.5;
+}
+
+
+.botaoClique{
+  align-items: flex-start;
+  text-align: left;
+  margin-top: 5rem;
+  margin-left: 2rem;
+}
+
+.botao {
+  background-color: #acd137;
+  color: black;
+  border: none;
+  padding: 0.8rem 2rem;
+  border-radius: 0.8rem;
+  text-decoration: none;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s;
+  align-items:flex-start;
+  display: inline-block;
+}
+
+.botao:hover {
+  background-color: #b4ea07;
+}
+
+.imagem img {
+  width: 100%;
+  margin-right: rem;
+  max-width: 40rem; /*28rem;*/
+}
