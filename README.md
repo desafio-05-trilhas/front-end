@@ -89,11 +89,11 @@ A estrutura foi organizada por trilhas dentro da organização no GitHub:
 
 ## Funcionalidades do Site
 
-- *Landing Page educativa** com conteúdo informativo  
-- *Formulário de denúncia anônima** com envio para o banco de dados  
-- **Login básico** 
-- *Dashboard com dados ambientais**  
-- **Layout responsivo**
+-**Landing Page educativa** com conteúdo informativo  
+-**Formulário de denúncia anônima** com envio para o banco de dados  
+-**Login básico** 
+-**Dashboard com dados ambientais**
+-**Layout responsivo**
 
 ---
 ## 🔗 Demonstração e Links
@@ -158,7 +158,7 @@ A estrutura foi organizada por trilhas dentro da organização no GitHub:
 
 | Integrante                      | Função            |
 |--------------------------------|-------------------
-| **JORLLUANNA AZEVEDO TEIXEIRA**     | Jogos | 
+| **Jorlluanna Azevedo Teixera**     | Jogos | 
 
 
 ---
