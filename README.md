@@ -10,18 +10,18 @@
 
 ## Objetivo do Projeto
 
-Desenvolvemos um site que une a **educação ambiental e a participação cidadã**, permitindo que qualquer pessoa se informe sobre a situação das queimadas no Brasil e possa realizar denúncias de ocorrencias de queimadas ilegais em sua região. 
+Desenvolvemos um site que une a **educação ambiental e a participação cidadã**, permitindo que qualquer pessoa se informe sobre a situação das queimadas no Brasil e possa realizar denúncias de ocorrências de queimadas ilegais em sua região. 
 
 ---
 
 ## Contexto do Desafio
 
-Este projeto faz parte do **Desafio 5** do programa **Trilhas Inova Maranhão**, a nossa plataforma web, inclui dados como:
+Este projeto faz parte do **Desafio 5** do programa **Trilhas Inova Maranhão**, a nossa plataforma web inclui dados como:
 
-- Uma *Landing Page* informativa sobre a concientização que visa a protecão da fauna e flora brasileira
+- Uma *Landing Page* informativa sobre a conscientização que visa a proteção da fauna e flora brasileira
 - Uma *página de denúncia* de queimadas locais 
 - Um *Dashboard* em tempo real com dados atualizados  
-- Um sistema com *banco de dados* integrado ao site, para amazenar as denúncias
+- Um sistema com *banco de dados* integrado ao site, para armazenar as denúncias
 - Uma *página de login* e controle básico
 
 ---
@@ -42,12 +42,12 @@ Estamos utilizando dados reais provenientes de **fontes públicas**, como IBGE, 
 
 ### Front-End
 - **HTML5, CSS3, JavaScript ES6+**
-- **React.js + TypeScript**
+- **React.js + TypeScript + Vite**
 - **Axios** para consumo de APIs
 - **Responsividade e acessibilidade**
 - **Figma** (protótipo)
 - **Visual Studio Code**
-- -**Live Server**
+- **Live Server**
 
 ### Back-End
 - **Java (Spring Boot)**
@@ -66,7 +66,7 @@ Estamos utilizando dados reais provenientes de **fontes públicas**, como IBGE, 
 
 ## Outras Ferramentas
 - **Alura** (plataforma de ensino)
-- **Gogle Meet**(Aplicativo de videochamada)
+- **Google Meet**(Aplicativo de videochamada)
 
 
 ---
@@ -89,11 +89,11 @@ A estrutura foi organizada por trilhas dentro da organização no GitHub:
 
 ## Funcionalidades do Site
 
--**Landing Page educativa** com conteúdo informativo  
--**Formulário de denúncia anônima** com envio para o banco de dados  
--**Login básico** 
--**Dashboard com dados ambientais**
--**Layout responsivo**
+- **Landing Page educativa** com conteúdo informativo  
+- **Formulário de denúncia anônima** com envio para o banco de dados  
+- **Login básico** 
+- **Dashboard com dados ambientais**
+- **Layout responsivo**
 
 ---
 ## 🔗 Demonstração e Links
@@ -148,18 +148,40 @@ A estrutura foi organizada por trilhas dentro da organização no GitHub:
 ### Design
 
 | Integrante                      | Função            |
-|--------------------------------|-------------------
-| **Jaqueline Santos**      | UX/UI Designer|
-| **Jhessica Camillly Rodrigues Costa**      | UX/UI Designer|
-| **Nádia Beatriz Gomes Monteiro**      | UX/UI Designer|
-
+|--------------------------------|-------------------|
+| **Jaqueline Santos**            | UX/UI Designer    |
+| **Jhessica Camillly Rodrigues Costa** | UX/UI Designer    |
+| **Nádia Beatriz Gomes Monteiro**| UX/UI Designer    |
 
 ### Jogos
 
 | Integrante                      | Função            |
-|--------------------------------|-------------------
-| **Jorlluanna Azevedo Teixera**     | Jogos | 
+|--------------------------------|-------------------|
+| **Jorlluanna Azevedo Teixera** | Jogos             |
 
+---
+
+## Como rodar o Front-End localmente
+
+### Pré-requisitos
+- [Node.js](https://nodejs.org/) (versão 18 ou superior)
+- npm ou yarn
+
+### Passos para executar
+
+```bash
+# Clone o repositório da trilha de Front-End
+git clone https://github.com/desafio-05-trilhas/front-end.git
+
+# Acesse a pasta do projeto
+cd front-end
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
+npm run dev
+```
 
 ---
 
