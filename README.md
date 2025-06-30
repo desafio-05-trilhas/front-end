@@ -72,7 +72,7 @@ Estamos utilizando dados reais provenientes de **fontes públicas**, como IBGE, 
 ---
 
 
-## 🗂️ Organização dos Repositórios
+## Organização dos Repositórios
 
 A estrutura foi organizada por trilhas dentro da organização no GitHub:
 
@@ -89,11 +89,11 @@ A estrutura foi organizada por trilhas dentro da organização no GitHub:
 
 ## Funcionalidades do Site
 
-- ✅ **Landing Page educativa** com conteúdo informativo  
-- ✅ **Formulário de denúncia anônima** com envio para o banco de dados  
-- ✅ **Login básico** 
-- ✅ **Dashboard com dados ambientais**  
-- ✅ **Layout responsivo**
+- *Landing Page educativa** com conteúdo informativo  
+- *Formulário de denúncia anônima** com envio para o banco de dados  
+- **Login básico** 
+- *Dashboard com dados ambientais**  
+- **Layout responsivo**
 
 ---
 ## 🔗 Demonstração e Links
@@ -129,8 +129,8 @@ A estrutura foi organizada por trilhas dentro da organização no GitHub:
 
 ### Back-End
 
-| Integrante                      | Função            |
-|--------------------------------|-------------------|
+| Integrante                      | Função              | GitHub                              |
+|--------------------------------|---------------------|-------------------------------------|
 | **Angelo Pacheco**     | Back-End Developer | [@anjeelo](https://github.com/anjeelo) |
 | **Isabelle Maria Borges Santos**     | Back-End Developer | [@isabellembs](https://github.com/isabellembs) |
 | **Luellen Da Luz**     | Back-End Developer | [@luellen-25](https://github.com/luellen-25/) |
@@ -139,11 +139,10 @@ A estrutura foi organizada por trilhas dentro da organização no GitHub:
 
 ### Ciência de dados
 
-| Integrante                      | Função            |
-|--------------------------------|-------------------|
+| Integrante                      | Função              | GitHub                              |
+|--------------------------------|---------------------|-------------------------------------|
 | **Rafhyza Santos e Santos**     | Ciência de dados | [@Rafhyza](https://github.com/Rafhyza) |
 | **Rafael Silva Andrade**     | Ciência de dados | [@rafaelandrade2024](https://github.com/rafaelandrade2024) |
-
 
 
 ### Design
@@ -158,8 +157,9 @@ A estrutura foi organizada por trilhas dentro da organização no GitHub:
 ### Jogos
 
 | Integrante                      | Função            |
-|--------------------------------|-------------------|
-| ****      | Jogos    |
+|--------------------------------|-------------------
+| **JORLLUANNA AZEVEDO TEIXEIRA**     | Jogos | 
+
 
 ---
 
