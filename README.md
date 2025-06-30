@@ -1,8 +1,8 @@
-# Alerta🌱Florestas - Equipe 20
+# Alerta🌱Florestas 
 
 [![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-%23E6F4EA)](#)
-![GitHub repo size](https://img.shields.io/github/repo-size/sthedsyl/desafio-4---trilhas)
-![GitHub contributors](https://img.shields.io/github/contributors/sthedsyl/desafio-4---trilhas)
+![GitHub repo size](https://img.shields.io/github/repo-size/desafio-05-trilhas/front-end)
+![GitHub contributors](https://img.shields.io/github/contributors/desafio-05-trilhas/front-end)
 
 > **Site informativo e colaborativo sobre queimadas no Brasil Estado do Maranhão**, desenvolvido por integrantes das trilhas de Front-End, Back-End, Ciência de Dados, Jogos e UX/UI Design como parte do **Desafio 5 do programa Trilhas Inova Maranhão**, em parceria com a SECTI e FAPEMA.
 
@@ -46,6 +46,8 @@ Estamos utilizando dados reais provenientes de **fontes públicas**, como IBGE, 
 - **Axios** para consumo de APIs
 - **Responsividade e acessibilidade**
 - **Figma** (protótipo)
+- **Visual Studio Code**
+- -**Live Server**
 
 ### Back-End
 - **Java (Spring Boot)**
@@ -58,25 +60,30 @@ Estamos utilizando dados reais provenientes de **fontes públicas**, como IBGE, 
 
 ### UX/UI
 - **Canva Slides** (apresentação)
-- **Microsoft Office ** (documentação final)
+- **Microsoft Office** (documentação final)
 
 ---
 
 ## Outras Ferramentas
 - **Alura** (plataforma de ensino)
+- **Gogle Meet**(Aplicativo de videochamada)
 
 
-## Organização dos Repositórios
+---
 
-A estrutura foi organizada por trilhas dentro da organização GitHub:
+
+## 🗂️ Organização dos Repositórios
+
+A estrutura foi organizada por trilhas dentro da organização no GitHub:
 
 | Trilha             | Repositório                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
-| **Front-End**      | [`front-end`](https://github.com/NOME-ORG/front-end)     |
-| **Back-End**       | [`back-end`](https://github.com/NOME-ORG/back-end)       |
-| **Dados**          | [`dados`](https://github.com/NOME-ORG/dados)             |
-| **UX/UI Design**   | [`uxui`](https://github.com/NOME-ORG/uxui)               |
-| **Documentação**   | [`documentacao-desafio5`](https://github.com/NOME-ORG/documentacao-desafio5)     |
+| **Front-End**      | [`front-end`](https://github.com/desafio-05-trilhas/front-end.git)         |
+| **Back-End**       | [`back-end`](https://github.com/desafio-05-trilhas/back-end.git)           |
+| **Dados**          | [`dados`](https://github.com/desafio-05-trilhas/dados.git)                 |
+| **UX/UI Design**   | [`design`](https://github.com/desafio-05-trilhas/design.git)               |
+| **Jogos**          | [`jogos`](https://github.com/desafio-05-trilhas/jogos.git)                 |
+| **Documentação**   | [Acessar documentação no Google Drive](https://drive.google.com/file/d/1a2b3cXYZ456/view?usp=sharing) |
 
 ---
 
@@ -91,20 +98,20 @@ A estrutura foi organizada por trilhas dentro da organização GitHub:
 ---
 ## 🔗 Demonstração e Links
 
-| Item               | Link                                                |
-|--------------------|-----------------------------------------------------|
-| **Protótipo (Figma)** | [Acessar](https://figma.com/...) *(editar depois)* |
-| **Site**           | [Em breve no GitHub Pages ou Vercel]               |
-| **Dashboard Power BI** | [Incorporação futura via iframe]                  |
-| **Apresentação**   | [Google Slides – Em construção]                     |
+| Item               | Link                                                                                     |
+|--------------------|------------------------------------------------------------------------------------------|
+| **Protótipo (Figma)** | [Acessar Protótipo no Figma](https://www.figma.com/design/w3mbWlIwcr3hGjJufTsO8t/PROTOTIPO-DESAFIO-05?node-id=0-1&t=GliywCBhVR5iGosV-1) |
+| **Site**           | [Acessar Site (Vercel)](https://share.google/wFeEEaBnEAvPrSqyN)                  |
+| **Apresentação**   | [Ver apresentação no Canva](https://www.canva.com/design/DAGrkfcfdqo/Xjg1MjwslDh2nyvZQ_haRQ/view?utm_content=DAGrkfcfdqo&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent) |
 
 ---
+
 ## A Solução Proposta
 
 **Alerta🌱Florestas** oferece uma solução digital acessível para promover **educação ambiental** e **ação cidadã**, permitindo:
 
 - Visualizar dados reais sobre queimadas  
-- Denunciar queimadas ilegais de forma simples e anônima  
+- Denunciar queimadas ilegais de forma simples e anônima
 - Incentivar a responsabilidade socioambiental
 
 ---
@@ -114,23 +121,28 @@ A estrutura foi organizada por trilhas dentro da organização GitHub:
 
 | Integrante                      | Função              | GitHub                              |
 |--------------------------------|---------------------|-------------------------------------|
+| **Adriana Costa Barros**     | Front-End Developer | [@]() |
 | **Merilyn Aroucha Barros**     | Front-End Developer | [@Merilyn2001](https://github.com/Merilyn2001) |
-| **Sarah Cristinny Monteiro**     | Front-End Developer | [@monteirocristinny](https://github.com/monteirocristinny) |
+| **Raislan Ítalo de Sousa da Silva**     | Front-End Developer | [@raislan-italo](https://github.com/raislan-italo) |
+| **Sarah Cristinny Castro Monteiro**     | Front-End Developer | [@monteirocristinny](https://github.com/monteirocristinny) |
 
 
 ### Back-End
 
 | Integrante                      | Função            |
 |--------------------------------|-------------------|
+| **Angelo Pacheco**     | Back-End Developer | [@anjeelo](https://github.com/anjeelo) |
+| **Isabelle Maria Borges Santos**     | Back-End Developer | [@isabellembs](https://github.com/isabellembs) |
+| **Luellen Da Luz**     | Back-End Developer | [@luellen-25](https://github.com/luellen-25/) |
 | **Susiane Moreira**     | Back-End Developer | [@susianemoreira007](https://github.com/susianemoreira007) |
-| **Welderson Bruce**     | Back-End Developer | [@]() |
+| **Welderson Bruce**     | Back-End Developer | [@brvcelose](https://github.com/brvcelose) |
 
-### Ciencia de dados
+### Ciência de dados
 
 | Integrante                      | Função            |
 |--------------------------------|-------------------|
-| **Rafhyza Santos e Santos**     | Ciencia de dados | [@Rafhyza](https://github.com/Rafhyza) |
-| **Rafael Silva Andrade**     | Ciencia de dados | [@rafaelandrade2024](https://github.com/rafaelandrade2024) |
+| **Rafhyza Santos e Santos**     | Ciência de dados | [@Rafhyza](https://github.com/Rafhyza) |
+| **Rafael Silva Andrade**     | Ciência de dados | [@rafaelandrade2024](https://github.com/rafaelandrade2024) |
 
 
 
@@ -138,6 +150,7 @@ A estrutura foi organizada por trilhas dentro da organização GitHub:
 
 | Integrante                      | Função            |
 |--------------------------------|-------------------
+| **Jaqueline Santos**      | UX/UI Designer|
 | **Jhessica Camillly Rodrigues Costa**      | UX/UI Designer|
 | **Nádia Beatriz Gomes Monteiro**      | UX/UI Designer|
 
@@ -159,6 +172,6 @@ Confira o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Agradecimentos
 
-Feito com dedicação pela **Equipe 20**, como parte do curso **Front-End Trilhas Inova Maranhão**, com o apoio da **SECTI** e da **FAPEMA**.
+Feito com dedicação pela **Equipe 20**, como parte do programa **Trilhas Inova Maranhão**, com o apoio da **SECTI** e da **FAPEMA**.
 
 ---
